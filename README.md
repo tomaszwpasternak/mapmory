@@ -10,4 +10,4 @@ With this application you are able to save both trips and discover new places
 - Discovering places allow you to plan next trips
 - You can take photo and then adjust perspective
 
-![Intro Gif](https://github.com/tomaszwpasternak/krusie-podrusie/blob/master/screenshots/intro.gif)
+![Intro Gif](https://github.com/tomaszwpasternak/mapmory/blob/master/screenshots/intro.gif)
