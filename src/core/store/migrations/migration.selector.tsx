@@ -1,0 +1,1 @@
+export const selectAllMigrations = state => state.migration.migrations;

@@ -1,0 +1,1 @@
+export const SELECT_MAP_TYPE = state => state.setting.mapType;
