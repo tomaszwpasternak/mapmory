@@ -11,3 +11,7 @@ With this application you are able to save both trips and discover new places
 - You can take photo and then adjust perspective
 
 ![Intro Gif](https://github.com/tomaszwpasternak/mapmory/blob/master/screenshots/intro.gif)
+
+## License
+
+[The MIT License](https://github.com/tomaszwpasternak/mapmory/blob/master/LICENSE)
